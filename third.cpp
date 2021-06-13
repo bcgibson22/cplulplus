@@ -12,6 +12,9 @@ int main(){
     cout << myDouble << endl;
     cout << 5+10/2*(3+25) << endl;
     cout << "Hello\t I am still waiting on those consumables..." << endl;
+    /*breaking character*/
     cout << "There are two \\backslashes." << endl;
+    /*another breaking character*/
+    cout << "Backslash and double quotes are \"." << endl;
     return EXIT_SUCCESS;
 }
